@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="db1bf383c3c4b610c9043eec05013163" extends="task" label="Reimbursement Request" max_length="40" name="x_1092529_reimbu_0_reimbursement_request" type="collection">
+        <element label="Reason for Rejection" max_length="40" name="reason_for_rejection" type="string"/>
+        <element label="Category" max_length="32" name="category" reference="x_1092529_reimbu_0_reimbursement_category" type="reference"/>
+        <element label="Amount (BRL)" max_length="20" name="amount_brl" type="currency"/>
+        <element choice="1" label="Decision" max_length="40" name="decision" type="choice">
+            <choice/>
+        </element>
+        <element label="Expense Date" max_length="255" name="expense_date" type="glide_date"/>
+        <element label="Amount (USD)" max_length="20" name="amount_usd" type="currency"/>
+    </element>
+</database>

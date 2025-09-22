@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Reimbursement Request">93414c5bc3c4b610c9043eec05013178</catalog_item>
+        <catalog_variable>IO:5b41449bc3c4b610c9043eec05013168</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>400</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 19:35:12</sys_created_on>
+        <sys_id>d223cc1fc3c4b610c9043eec050131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>expense_date</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d223cc1fc3c4b610c9043eec050131ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 19:35:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mandatory Fields">55c2841fc3c4b610c9043eec0501319a</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>expense_date</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=d223cc1fc3c4b610c9043eec050131ed"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>catalog_ui_policy_action_d223cc1fc3c4b610c9043eec050131ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Reimbursement Request">93414c5bc3c4b610c9043eec05013178</catalog_item><catalog_variable>IO:5b41449bc3c4b610c9043eec05013168</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><order>400</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-22 19:35:12</sys_created_on><sys_id>d223cc1fc3c4b610c9043eec050131ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>expense_date</sys_name><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>catalog_ui_policy_action_d223cc1fc3c4b610c9043eec050131ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-22 19:35:12</sys_updated_on><table/><ui_policy display_value="Mandatory Fields">55c2841fc3c4b610c9043eec0501319a</ui_policy><value/><value_action>ignore</value_action><variable>expense_date</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=d223cc1fc3c4b610c9043eec050131ed"/></record_update>]]></payload>
+        <payload_hash>-1769106214</payload_hash>
+        <record_name>expense_date</record_name>
+        <reverted_from/>
+        <source>49ca3f43c3c4b610c9043eec05013130</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 19:35:14</sys_created_on>
+        <sys_id>e223cc1fc3c4b610c9043eec050131f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19972ec522f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 19:35:14</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>e623cc1fe3c4b6109174ac6bc3d2a5f5</update_guid>
+        <update_guid_history>e623cc1fe3c4b6109174ac6bc3d2a5f5:-1769106214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="expense_date">24754cdfc3c4b610c9043eec050131b7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 19:45:12</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>19d818fe0cb2411887affbe89b3efa90</sys_id>
+        <sys_metadata>d223cc1fc3c4b610c9043eec050131ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>expense_date</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_d223cc1fc3c4b610c9043eec050131ed</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_d223cc1fc3c4b610c9043eec050131ed">e223cc1fc3c4b610c9043eec050131f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 19:45:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
