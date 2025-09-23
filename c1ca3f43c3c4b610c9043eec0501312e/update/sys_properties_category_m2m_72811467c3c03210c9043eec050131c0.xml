@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Reimbursement Management">8bd0d427c3c03210c9043eec05013131</category>
+        <order>200</order>
+        <property display_value="x_1092529_reimbu_0.integration_endpoint" name="x_1092529_reimbu_0.integration_endpoint">2141d427c3c03210c9043eec0501313b</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 15:16:31</sys_created_on>
+        <sys_id>72811467c3c03210c9043eec050131c0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_1092529_reimbu_0.integration_endpoint.Reimbursement Management</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_72811467c3c03210c9043eec050131c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 15:31:45</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

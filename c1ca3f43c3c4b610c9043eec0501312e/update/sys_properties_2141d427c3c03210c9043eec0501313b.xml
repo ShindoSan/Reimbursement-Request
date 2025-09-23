@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>FreeCurrency API endpoint</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1092529_reimbu_0.integration_endpoint</name>
+        <read_roles/>
+        <suffix>integration_endpoint</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 15:16:30</sys_created_on>
+        <sys_id>2141d427c3c03210c9043eec0501313b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_1092529_reimbu_0.integration_endpoint</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>sys_properties_2141d427c3c03210c9043eec0501313b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 16:13:59</sys_updated_on>
+        <type>string</type>
+        <value>https://api.freecurrencyapi.com/v1/latest</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=2141d427c3c03210c9043eec0501313b"/>
+</record_update>
