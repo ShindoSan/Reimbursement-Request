@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1092529_reimbu_0_reimbursement_request">state=3^EQ<item display_value="Completed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Completed</label>
+        <name>Completed</name>
+        <order>300</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 22:53:06</sys_created_on>
+        <sys_id>cdf9f5a7c3c83210c9043eec0501310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Completed</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>sys_process_flow_cdf9f5a7c3c83210c9043eec0501310c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 22:53:06</sys_updated_on>
+        <table>x_1092529_reimbu_0_reimbursement_request</table>
+    </sys_process_flow>
+</record_update>
