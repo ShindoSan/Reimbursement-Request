@@ -4,7 +4,10 @@
         <element label="Category" max_length="32" name="category" reference="x_1092529_reimbu_0_reimbursement_category" type="reference"/>
         <element label="Amount (BRL)" max_length="20" name="amount_brl" type="currency"/>
         <element choice="1" label="Decision" max_length="40" name="decision" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Reproved" sequence="1" value="reproved"/>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+            </choice>
         </element>
         <element label="Expense Date" max_length="255" name="expense_date" type="glide_date"/>
         <element label="Amount (USD)" max_length="20" name="amount_usd" type="currency"/>
