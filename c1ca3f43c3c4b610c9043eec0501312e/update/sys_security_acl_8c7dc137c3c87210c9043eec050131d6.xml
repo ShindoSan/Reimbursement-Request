@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
     <sys_security_acl action="INSERT_OR_UPDATE">
         <active>true</active>
-        <admin_overrides>true</admin_overrides>
-        <advanced>false</advanced>
+        <admin_overrides>false</admin_overrides>
+        <advanced>true</advanced>
         <applies_to/>
         <condition/>
         <decision_type>allow</decision_type>
-        <description>Allow read for records in x_1092529_reimbu_0_reimbursement_category, for users with role x_1092529_reimbu_0.hr manager.</description>
+        <description/>
         <local_or_existing>Local</local_or_existing>
         <name>x_1092529_reimbu_0_reimbursement_category</name>
-        <operation display_value="read">read</operation>
-        <script/>
+        <operation display_value="list_edit">54f535270a0a0b8c007c67009ab2bdc0</operation>
+        <script><![CDATA[answer = false;]]></script>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-22 19:11:23</sys_created_on>
-        <sys_id>25bd3f47c3c4b610c9043eec0501313c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_created_on>2025-09-24 14:17:18</sys_created_on>
+        <sys_id>8c7dc137c3c87210c9043eec050131d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1092529_reimbu_0_reimbursement_category</sys_name>
         <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
-        <sys_update_name>sys_security_acl_25bd3f47c3c4b610c9043eec0501313c</sys_update_name>
+        <sys_update_name>sys_security_acl_8c7dc137c3c87210c9043eec050131d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-24 13:22:35</sys_updated_on>
+        <sys_updated_on>2025-09-24 14:17:18</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
-        <id>25bd3f47c3c4b610c9043eec0501313c</id>
+        <id>8c7dc137c3c87210c9043eec050131d6</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-24 12:52:34</sys_created_on>
-        <sys_id>7f2a307fc3487210c9043eec05013181</sys_id>
+        <sys_created_on>2025-09-24 14:17:16</sys_created_on>
+        <sys_id>a49dc937c3c87210c9043eec050131c2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-24 12:52:34</sys_updated_on>
+        <sys_updated_on>2025-09-24 14:17:16</sys_updated_on>
         <table>sys_security_acl</table>
         <use_es_latest>true</use_es_latest>
     </sys_es_latest_script>
