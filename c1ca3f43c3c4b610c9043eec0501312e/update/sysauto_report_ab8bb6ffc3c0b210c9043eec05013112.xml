@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
+    <sysauto_report action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address_list/>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <group_list>f719a09bc388b610c9043eec0501318e,179ae8dbc388b610c9043eec05013125,fe5aa8dbc388b610c9043eec05013108,74f9a0dbc388b610c9043eec050131b7</group_list>
+        <include_detail>false</include_detail>
+        <include_with/>
+        <max_drift/>
+        <name>Scheduled execution of refund requests that have not yet been finalized</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <omit_if_no_records>false</omit_if_no_records>
+        <output_type>PDF-landscape</output_type>
+        <page_height_in_pixels>612</page_height_in_pixels>
+        <page_size>Letter</page_size>
+        <page_width_in_pixels>792</page_width_in_pixels>
+        <report display_value="refund requests that have not yet been finalized">f8097a7bc3c0b210c9043eec05013189</report>
+        <report_body><![CDATA[<p>Hello,</p>
+<p>attached is the daily report with refunds awaiting approval.</p>]]></report_body>
+        <report_title>Daily Report: Refund Requests Pending Approval</report_title>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2025-09-24 22:17:47</run_start>
+        <run_time>1970-01-01 21:00:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>sysauto_report</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 22:21:11</sys_created_on>
+        <sys_id>ab8bb6ffc3c0b210c9043eec05013112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled execution of refund requests that have not yet been finalized</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>sysauto_report_ab8bb6ffc3c0b210c9043eec05013112</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 22:21:11</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <user_list/>
+        <zip>false</zip>
+    </sysauto_report>
+</record_update>
