@@ -2,26 +2,26 @@
     <par_dashboard_permission action="INSERT_OR_UPDATE">
         <can_read>true</can_read>
         <can_share>true</can_share>
-        <can_write>true</can_write>
+        <can_write>false</can_write>
         <dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard>
         <group/>
-        <owner>true</owner>
+        <owner>false</owner>
         <role/>
         <sys_class_name>par_dashboard_permission</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-24 23:40:32</sys_created_on>
+        <sys_created_on>2025-09-26 01:30:26</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>6b7ecf77c344b210c9043eec05013114</sys_id>
+        <sys_id>533170d8c3dcf210c9043eec050131ab</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>af7ecf77c344b210c9043eec05013110</sys_name>
         <sys_overrides/>
         <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
-        <sys_update_name>par_dashboard_permission_6b7ecf77c344b210c9043eec05013114</sys_update_name>
+        <sys_update_name>par_dashboard_permission_533170d8c3dcf210c9043eec050131ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-24 23:40:32</sys_updated_on>
-        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <sys_updated_on>2025-09-26 01:30:26</sys_updated_on>
+        <user display_value="HR Manager">a48f7c57c30cb610c9043eec05013125</user>
     </par_dashboard_permission>
 </record_update>

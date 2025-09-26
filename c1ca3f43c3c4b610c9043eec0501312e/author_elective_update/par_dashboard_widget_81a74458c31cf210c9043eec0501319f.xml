@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">677e43f7c344b210c9043eec05013132</canvas>
+        <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
+        <component_props>{"src":"vscbanner.png","sources":"[]","fit":"fill","position":"center center","alt":"","href":"https://www.servicenow.com/","configAria":"{\"link\":{}}","id":"src","value":"vscbanner.png","propLabel":"Image source"}</component_props>
+        <h>6</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 22:28:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>81a74458c31cf210c9043eec0501319f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>par_dashboard_widget_81a74458c31cf210c9043eec0501319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 22:33:17</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>par_dashboard_widget_81a74458c31cf210c9043eec0501319f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">677e43f7c344b210c9043eec05013132</canvas><component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component><component_props>{"src":"vscbanner.png","sources":"[]","fit":"fill","position":"center center","alt":"","href":"https://www.servicenow.com/","configAria":"{\"link\":{}}","id":"src","value":"vscbanner.png","propLabel":"Image source"}</component_props><h>6</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-25 22:28:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>81a74458c31cf210c9043eec0501319f</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>par_dashboard_widget_81a74458c31cf210c9043eec0501319f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 22:33:17</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>465732473</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>96f98457c308b610c9043eec05013181</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 22:33:17</sys_created_on>
+        <sys_id>4cb84c18c31cf210c9043eec0501316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199830269150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 22:33:17</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>c0b84c187b1cf2106684b041f146186f</update_guid>
+        <update_guid_history>c0b84c187b1cf2106684b041f146186f:465732473,a788c8980f1cf2105456f8fff0ffbc31:266135532,08b74c187d1cf210057b48cc2cc8faaf:-1688799537,4da74458811cf21064ff99525f1749a0:-1127331701</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">bb9d98d0c39cf210c9043eec050131c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-26 00:04:44</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>07d4926b61f24fceb2df4cff9ecb9c44</sys_id>
+        <sys_metadata>81a74458c31cf210c9043eec0501319f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_81a74458c31cf210c9043eec0501319f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_81a74458c31cf210c9043eec0501319f">4cb84c18c31cf210c9043eec0501316f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-26 00:04:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

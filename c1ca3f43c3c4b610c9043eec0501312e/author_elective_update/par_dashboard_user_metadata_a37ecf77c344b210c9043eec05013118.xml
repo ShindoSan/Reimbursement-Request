@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <background_color>--now-color_background--primary</background_color>
+        <cache_expiration_time>24</cache_expiration_time>
+        <card_bg_image/>
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2025-09-24 23:40:32</created_on>
+        <dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard>
+        <enable_data_cache>false</enable_data_cache>
+        <include_custom_insights>true</include_custom_insights>
+        <include_key_contributors>true</include_key_contributors>
+        <include_kpi_signals>true</include_kpi_signals>
+        <include_predictive_target>true</include_predictive_target>
+        <include_predictive_thresholds>true</include_predictive_thresholds>
+        <include_process_mining>true</include_process_mining>
+        <include_severity>true</include_severity>
+        <include_target>true</include_target>
+        <include_thresholds>true</include_thresholds>
+        <include_trends>true</include_trends>
+        <include_widget_notification>true</include_widget_notification>
+        <last_updated_on>2025-09-25 21:09:57</last_updated_on>
+        <po_project_id_list>[]</po_project_id_list>
+        <refresh_information>true</refresh_information>
+        <refresh_interval>60</refresh_interval>
+        <requested_by_user/>
+        <schedule_repetition>true</schedule_repetition>
+        <show_insights_panel>true</show_insights_panel>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 23:40:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a37ecf77c344b210c9043eec05013118</sys_id>
+        <sys_mod_count>36</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_a37ecf77c344b210c9043eec05013118</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:09:57</sys_updated_on>
+        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+        <use_custom_tab_colors>true</use_custom_tab_colors>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>par_dashboard_user_metadata_a37ecf77c344b210c9043eec05013118</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color>--now-color_background--primary</background_color><cache_expiration_time>24</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2025-09-24 23:40:32</created_on><dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_updated_on>2025-09-25 21:09:57</last_updated_on><po_project_id_list>[]</po_project_id_list><refresh_information>true</refresh_information><refresh_interval>60</refresh_interval><requested_by_user/><schedule_repetition>true</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-24 23:40:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a37ecf77c344b210c9043eec05013118</sys_id><sys_mod_count>36</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>par_dashboard_user_metadata_a37ecf77c344b210c9043eec05013118</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 21:09:57</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>true</use_custom_tab_colors></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>1503390973</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>96f98457c308b610c9043eec05013181</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:09:57</sys_created_on>
+        <sys_id>2f95f3c0c3d8f210c9043eec05013189</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19982b61f900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:09:57</sys_updated_on>
+        <type>PAR Dashboard Metadata</type>
+        <update_guid>a395f3c03ad8f2104e2baf3eb822a389</update_guid>
+        <update_guid_history>a395f3c03ad8f2104e2baf3eb822a389:1503390973,c67533c0fbd8f210608362254d3682f3:1780054680,94053b80f1d8f210b8b4b7af6e22cf06:-1179386638,65423f8c8298f2104d09ec091e4cc837:-1543480141,ea02f78cb298f2103db9575c02d66d61:903435539,cacf2fc83e98f210eba7fbe8d09feb54:-1754452915,43e96f04d998f2106ff723654e04c846:-1811918083,99896704d298f21058ec1efa9a47e89a:1622168083,f3d8e7c03798f2104a1cfffa5b5a42c4:-1383730155,fc286b802498f210f1c980ff75028ea7:160921174,f6ca9f807258f21032beec5a30160156:-1537347555,f0a9d7405258f21065079fb87b11c6b0:1341960948,f4895740a758f210a8cd674fc3e77930:-1633964801,e0d897009958f210494713c264ea3635:1961451233,b58813005558f210793edf861e2ea95a:-2088875208,7da7db8ce818f2106444ec98e1b0fe74:-1952050566,e7875b8c1018f2107f30316f7da70416:-369337091,d557178c4e18f2107b360919ef1cda6e:-519661665,c7269f0c1418f21014b20eab5a94c53d:-1830584000,f5a413c82a18f21042d62f26acf381dc:492493084,72f1dbc4ea18f210543719f83ee61de1:-1189659841,527b8fcce2d4f210391918f777e9088f:-456720366,c8b90f4c8bd4f210b338b1a152c41bf0:-1107627175,6e07cb8895d4f21011354acc70bcf02e:401682654,72d6c78805d4f2108bd553d8ca386acc:-2054988896,e3c507481bd4f210fcbd817d273e5b71:-405079870,d31407c478d4f210357eea99a4ae42da:890646519,26b34f8461d4f2107f17fc2ba951a6a6:-1343483295,03be3240aad4f210fe89b271cbce90d0:-1519394437,141eb20068d4f21056229dc8a029d7fe:-2012960232,361dbe8ca094f2106221300777beac9a:-618633477,736c728caa94f2101bad8a59b1b1a246:-1069607199,575b3e0c4494f21052f8e6154b69aab4:-695146433,4879da040214f21013dd08dfc8b05011:1508034773,550e02c4bcd0f21088003efaabcbd143:-1931249871,a587fb3f13c4b2109095de096922f446:-1735147,a37ecf77c644b2105da0b65fd7e0641b:-1892683389</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">72cdfb0cc3d8f210c9043eec0501311a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:45:40</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>6d7735dff6514a148e53c3cf74113890</sys_id>
+        <sys_metadata>a37ecf77c344b210c9043eec05013118</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_a37ecf77c344b210c9043eec05013118</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_a37ecf77c344b210c9043eec05013118">2f95f3c0c3d8f210c9043eec05013189</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:45:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

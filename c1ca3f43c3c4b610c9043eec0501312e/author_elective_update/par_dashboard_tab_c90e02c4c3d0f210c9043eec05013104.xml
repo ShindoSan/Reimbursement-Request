@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard>
+        <name>Request Analytics</name>
+        <order>2</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 13:37:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c90e02c4c3d0f210c9043eec05013104</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Analytics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>par_dashboard_tab_c90e02c4c3d0f210c9043eec05013104</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 13:37:19</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>par_dashboard_tab_c90e02c4c3d0f210c9043eec05013104</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard><name>Request Analytics</name><order>2</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-25 13:37:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c90e02c4c3d0f210c9043eec05013104</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request Analytics</sys_name><sys_overrides/><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>par_dashboard_tab_c90e02c4c3d0f210c9043eec05013104</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 13:37:19</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>1567683061</payload_hash>
+        <record_name>Request Analytics</record_name>
+        <reverted_from/>
+        <source>96f98457c308b610c9043eec05013181</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 13:37:19</sys_created_on>
+        <sys_id>450e02c4c3d0f210c9043eec05013106</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1998117b9410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 13:37:19</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>490e02c479d0f210e63e3231679ef205</update_guid>
+        <update_guid_history>490e02c479d0f210e63e3231679ef205:1567683061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Analytics">2ecdfb0cc3d8f210c9043eec0501310d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:45:40</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>88de704d77b04920bf16cf2f6a268900</sys_id>
+        <sys_metadata>c90e02c4c3d0f210c9043eec05013104</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Analytics</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_c90e02c4c3d0f210c9043eec05013104</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_c90e02c4c3d0f210c9043eec05013104">450e02c4c3d0f210c9043eec05013106</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:45:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

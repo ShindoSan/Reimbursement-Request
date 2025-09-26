@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">677e43f7c344b210c9043eec05013132</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-hero","label":"Reimbursement Process Performance &amp; Analytics","wontWrap":false,"hasNoMargin":false,"level":"1","id":"level","value":"1","noDebounce":true,"propLabel":"Level"}</component_props>
+        <h>4</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 20:11:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2428ef0cc358f210c9043eec0501310b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>par_dashboard_widget_2428ef0cc358f210c9043eec0501310b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:09:57</sys_updated_on>
+        <visualization/>
+        <w>25</w>
+        <widget_props/>
+        <x>8</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>par_dashboard_widget_2428ef0cc358f210c9043eec0501310b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">677e43f7c344b210c9043eec05013132</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-hero","label":"Reimbursement Process Performance &amp; Analytics","wontWrap":false,"hasNoMargin":false,"level":"1","id":"level","value":"1","noDebounce":true,"propLabel":"Level"}</component_props><h>4</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-25 20:11:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2428ef0cc358f210c9043eec0501310b</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>par_dashboard_widget_2428ef0cc358f210c9043eec0501310b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 21:09:57</sys_updated_on><visualization/><w>25</w><widget_props/><x>8</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1856626086</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>96f98457c308b610c9043eec05013181</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:09:57</sys_created_on>
+        <sys_id>af95f3c0c3d8f210c9043eec0501317f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19982b61ef30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:09:57</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>2795f3c066d8f210137acc44f3a7e67f</update_guid>
+        <update_guid_history>2795f3c066d8f210137acc44f3a7e67f:1856626086,86cfe7c8cc98f2102b3f2d7b03ddf3e8:1173748454,118967048998f210ab8f063e4fe3c68a:-1073364561,b828ef0c8958f210110ba23a47d4e50e:-740151600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">16cdbb0cc3d8f210c9043eec05013183</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:45:38</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>36443b82f3a74744aa0ba10290becf21</sys_id>
+        <sys_metadata>2428ef0cc358f210c9043eec0501310b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_2428ef0cc358f210c9043eec0501310b</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_2428ef0cc358f210c9043eec0501310b">af95f3c0c3d8f210c9043eec0501317f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:45:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

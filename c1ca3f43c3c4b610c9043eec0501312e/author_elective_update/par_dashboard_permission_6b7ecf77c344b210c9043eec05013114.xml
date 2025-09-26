@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="DELETE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 23:40:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b7ecf77c344b210c9043eec05013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>af7ecf77c344b210c9043eec05013110</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>par_dashboard_permission_6b7ecf77c344b210c9043eec05013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 23:40:32</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>par_dashboard_permission_6b7ecf77c344b210c9043eec05013114</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-24 23:40:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b7ecf77c344b210c9043eec05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_name>af7ecf77c344b210c9043eec05013110</sys_name><sys_overrides/><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>par_dashboard_permission_6b7ecf77c344b210c9043eec05013114</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-24 23:40:32</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+        <payload_hash>1071837664</payload_hash>
+        <record_name>af7ecf77c344b210c9043eec05013110</record_name>
+        <reverted_from/>
+        <source>96f98457c308b610c9043eec05013181</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 23:40:32</sys_created_on>
+        <sys_id>eb7ecf77c344b210c9043eec05013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1997e199e780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 23:40:32</sys_updated_on>
+        <type>PAR Dashboard Permission</type>
+        <update_guid>af7ecf774144b2105c3e037707525f16</update_guid>
+        <update_guid_history>af7ecf774144b2105c3e037707525f16:1071837664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">26cdbb0cc3d8f210c9043eec050131fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:45:40</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_permission">par_dashboard_permission</sys_db_object>
+        <sys_id>99357e54243742ab8e8ce56fd9457d49</sys_id>
+        <sys_metadata>6b7ecf77c344b210c9043eec05013114</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>af7ecf77c344b210c9043eec05013110</sys_name>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>par_dashboard_permission_6b7ecf77c344b210c9043eec05013114</sys_update_name>
+        <sys_update_version display_value="par_dashboard_permission_6b7ecf77c344b210c9043eec05013114">eb7ecf77c344b210c9043eec05013117</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:45:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

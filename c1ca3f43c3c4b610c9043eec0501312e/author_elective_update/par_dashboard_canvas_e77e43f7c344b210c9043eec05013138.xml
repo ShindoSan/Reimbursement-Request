@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard>
+        <dashboard_tab display_value="Pending Tasks">677e43f7c344b210c9043eec05013135</dashboard_tab>
+        <layout>[{"sys_id":"1557d34cc318f210c9043eec05013162","x":0,"y":14,"w":49,"h":13,"component_id":"2b1c080881e05dc63b917044290b233f","component_props":"{\"table\":\"x_1092529_reimbu_0_reimbursement_request\",\"columnPreferenceKey\":\"\",\"fixedQuery\":\"state=5\",\"followFilters\":true,\"listTitle\":\"List of Reimbursements Pending Payment \",\"columns\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"query\":\"active=true\",\"groupByField\":\"\",\"hideViewAll\":false,\"hideHighlightedValues\":false,\"showBorder\":true,\"bare\":false,\"highlightedValueConfigId\":\"\",\"hideHighlightContent\":false,\"highlightContent\":{\"patterns\":[],\"color\":\"\"},\"hideLinks\":false,\"nrlLandmark\":true,\"wordWrap\":false,\"overrideWordWrapUserPref\":false,\"maxCharLimit\":4000,\"hideEmptyStateImage\":false,\"hidePersonalization\":false,\"hideDotwalk\":false,\"hideColumnReorder\":false,\"hideRowSelector\":false,\"hideColumnGrouping\":false,\"hideColumnResizing\":false,\"hideColumnFiltering\":false,\"hideColumnSorting\":false,\"hideHeader\":false,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideLastRefreshedText\":false,\"hideRefreshButton\":false,\"hideInlineEditing\":false,\"isDashboard\":true,\"id\":\"columns\",\"value\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"propLabel\":\"Columns\",\"noDebounce\":true}","can_edit":true},{"sys_id":"73a98708c3d4f210c9043eec0501314b","x":0,"y":0,"w":48,"h":14,"component_id":"2b1c080881e05dc63b917044290b233f","component_props":"{\"table\":\"x_1092529_reimbu_0_reimbursement_request\",\"columnPreferenceKey\":\"\",\"fixedQuery\":\"state=1\",\"followFilters\":true,\"listTitle\":\"List of Reimbursements Pending Approval\",\"columns\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"query\":\"active=true\",\"groupByField\":\"\",\"hideViewAll\":false,\"hideHighlightedValues\":false,\"showBorder\":true,\"bare\":false,\"highlightedValueConfigId\":\"\",\"hideHighlightContent\":false,\"highlightContent\":{\"patterns\":[],\"color\":\"\"},\"hideLinks\":false,\"nrlLandmark\":true,\"wordWrap\":false,\"overrideWordWrapUserPref\":false,\"maxCharLimit\":4000,\"hideEmptyStateImage\":false,\"hidePersonalization\":false,\"hideDotwalk\":false,\"hideColumnReorder\":false,\"hideRowSelector\":false,\"hideColumnGrouping\":false,\"hideColumnResizing\":false,\"hideColumnFiltering\":false,\"hideColumnSorting\":false,\"hideHeader\":false,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideLastRefreshedText\":true,\"hideRefreshButton\":false,\"hideInlineEditing\":false,\"isDashboard\":true,\"id\":\"columns\",\"value\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"noDebounce\":true,\"propLabel\":\"Columns\"}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 23:40:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e77e43f7c344b210c9043eec05013138</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_update_name>par_dashboard_canvas_e77e43f7c344b210c9043eec05013138</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:07:17</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</application>
+        <file_path/>
+        <instance_id>da069ff1eb68d2d4e483f459bad0cdc9</instance_id>
+        <instance_name>dev288635</instance_name>
+        <name>par_dashboard_canvas_e77e43f7c344b210c9043eec05013138</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="HR Reimbursement Analytics">af7ecf77c344b210c9043eec05013110</dashboard><dashboard_tab display_value="Pending Tasks">677e43f7c344b210c9043eec05013135</dashboard_tab><layout>[{"sys_id":"1557d34cc318f210c9043eec05013162","x":0,"y":14,"w":49,"h":13,"component_id":"2b1c080881e05dc63b917044290b233f","component_props":"{\"table\":\"x_1092529_reimbu_0_reimbursement_request\",\"columnPreferenceKey\":\"\",\"fixedQuery\":\"state=5\",\"followFilters\":true,\"listTitle\":\"List of Reimbursements Pending Payment \",\"columns\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"query\":\"active=true\",\"groupByField\":\"\",\"hideViewAll\":false,\"hideHighlightedValues\":false,\"showBorder\":true,\"bare\":false,\"highlightedValueConfigId\":\"\",\"hideHighlightContent\":false,\"highlightContent\":{\"patterns\":[],\"color\":\"\"},\"hideLinks\":false,\"nrlLandmark\":true,\"wordWrap\":false,\"overrideWordWrapUserPref\":false,\"maxCharLimit\":4000,\"hideEmptyStateImage\":false,\"hidePersonalization\":false,\"hideDotwalk\":false,\"hideColumnReorder\":false,\"hideRowSelector\":false,\"hideColumnGrouping\":false,\"hideColumnResizing\":false,\"hideColumnFiltering\":false,\"hideColumnSorting\":false,\"hideHeader\":false,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideLastRefreshedText\":false,\"hideRefreshButton\":false,\"hideInlineEditing\":false,\"isDashboard\":true,\"id\":\"columns\",\"value\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"propLabel\":\"Columns\",\"noDebounce\":true}","can_edit":true},{"sys_id":"73a98708c3d4f210c9043eec0501314b","x":0,"y":0,"w":48,"h":14,"component_id":"2b1c080881e05dc63b917044290b233f","component_props":"{\"table\":\"x_1092529_reimbu_0_reimbursement_request\",\"columnPreferenceKey\":\"\",\"fixedQuery\":\"state=1\",\"followFilters\":true,\"listTitle\":\"List of Reimbursements Pending Approval\",\"columns\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"query\":\"active=true\",\"groupByField\":\"\",\"hideViewAll\":false,\"hideHighlightedValues\":false,\"showBorder\":true,\"bare\":false,\"highlightedValueConfigId\":\"\",\"hideHighlightContent\":false,\"highlightContent\":{\"patterns\":[],\"color\":\"\"},\"hideLinks\":false,\"nrlLandmark\":true,\"wordWrap\":false,\"overrideWordWrapUserPref\":false,\"maxCharLimit\":4000,\"hideEmptyStateImage\":false,\"hidePersonalization\":false,\"hideDotwalk\":false,\"hideColumnReorder\":false,\"hideRowSelector\":false,\"hideColumnGrouping\":false,\"hideColumnResizing\":false,\"hideColumnFiltering\":false,\"hideColumnSorting\":false,\"hideHeader\":false,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideLastRefreshedText\":true,\"hideRefreshButton\":false,\"hideInlineEditing\":false,\"isDashboard\":true,\"id\":\"columns\",\"value\":\"number,amount_brl,assignment_group,sys_created_by,sys_created_on\",\"noDebounce\":true,\"propLabel\":\"Columns\"}","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-24 23:40:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e77e43f7c344b210c9043eec05013138</sys_id><sys_mod_count>10</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package><sys_policy/><sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope><sys_update_name>par_dashboard_canvas_e77e43f7c344b210c9043eec05013138</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 21:07:17</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-584117603</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>96f98457c308b610c9043eec05013181</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:07:17</sys_created_on>
+        <sys_id>10053b80c3d8f210c9043eec05013101</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19982b3ac7b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:07:17</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>94053b8061d8f210f97a0256accc2600</update_guid>
+        <update_guid_history>94053b8061d8f210f97a0256accc2600:-584117603,ed423f8cde98f210706eb678fbffad31:741755267,6602f78c4598f210169638404a3fbe5c:-1278738223,5557178ca118f210dc77ed25acff1769:287763643,47269f0cf318f210766a963cae4d0f38:146081738,75a413c89c18f210e71bf6bf34b5d2d7:-174382658,b2f1db003b18f21093cd0b92d9387424:-262326347,de7b8fcc8bd4f210dddaf8d78a5c6e89:-312552357,48b90f4c0dd4f210c4363dfa849531eb:78304469,990e02c4d0d0f2105207d7f12720523d:-488741455,ab7e43f77b44b210f779c49fa5db5839:358735647</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">26cdbb0cc3d8f210c9043eec050131ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 21:45:40</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>bd35d607a5584e20a2fa0c7229605564</sys_id>
+        <sys_metadata>e77e43f7c344b210c9043eec05013138</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reimbursement Management" source="x_1092529_reimbu_0">c1ca3f43c3c4b610c9043eec0501312e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement Management">c1ca3f43c3c4b610c9043eec0501312e</sys_scope>
+        <sys_scope_delete display_value="">9c699c304b2c436d873fdb9e5d493cf9</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_e77e43f7c344b210c9043eec05013138</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_e77e43f7c344b210c9043eec05013138">10053b80c3d8f210c9043eec05013101</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 21:45:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
